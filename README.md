@@ -1,15 +1,15 @@
-# 📍 Real-Time Location Tracker (Socket.IO + Leaflet)
+#  Real-Time Location Tracker (Socket.IO + Leaflet)
 
 A simple real-time location tracking application built using **Node.js, Express, Socket.IO, and Leaflet.js**. This project allows multiple users to share and view live locations on a map.
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 📡 Real-time location sharing using WebSockets
-* 🗺️ Interactive map powered by Leaflet.js
-* 👥 Multiple users tracked simultaneously
-* 🔄 Live updates without page refresh
+*  Real-time location sharing using WebSockets
+*  Interactive map powered by Leaflet.js
+*  Multiple users tracked simultaneously
+*  Live updates without page refresh
 * ❌ Automatic marker removal when a user disconnects
 
 ---
@@ -145,7 +145,7 @@ This project helps you understand:
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 Swarnalee Ray
 
